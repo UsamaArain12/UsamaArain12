@@ -12,6 +12,9 @@
 
 - More Projects [Landing page](https://usamaarain12.github.io/CodeSoft1/)
 
+- Alhumdulillah I have complete my internship 
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/UsamaArain12](https://github.com/UsamaArain12)
 
 - 📫 How to reach me **ua339716@gmail.com**
